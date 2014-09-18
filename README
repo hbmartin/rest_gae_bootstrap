@@ -1,0 +1,1 @@
+Add your models to models.py, then start GAE... et voila, your RESTful API is at http://localhost:8080/api/modelname
